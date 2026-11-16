@@ -1,4 +1,4 @@
-﻿> 状态：已封存（2026-11-16），恢复方式见 [ARCHIVE.md](http://ARCHIVE.md)
+﻿> > 状态：已封存（2026-11-16），恢复方式见 [[ARCHIVE.md](http://ARCHIVE.md)]([ARCHIVE.md](http://ARCHIVE.md))
 
 # quant-lab-01
 
