@@ -1,4 +1,6 @@
-﻿# quant-lab-01
+﻿> 状态：已封存（2026-11-16），恢复方式见 [ARCHIVE.md](http://ARCHIVE.md)
+
+# quant-lab-01
 
 M1 结项：贵州茅台（600519）双均线策略回测。
 
